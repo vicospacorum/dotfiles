@@ -1,5 +1,9 @@
-:syntax on
-:colo elflord
+execute pathogen#infect()
+
+filetype plugin indent on
+
+syntax on
+colo elflord
 
 set autoindent
 
