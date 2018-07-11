@@ -3,7 +3,7 @@
 "filetype plugin indent on
 "
 syntax on
-colo elflord
+
 
 " +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 " Identation
