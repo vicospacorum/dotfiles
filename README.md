@@ -6,6 +6,9 @@ Coleção dos arquivos de configuração (*dot files*) do Linux que utilizo. A *
 #### bashrc_custom
 Copie o arquivo para a pasta HOME renomeando para _.bashrc_custom_ e adicione o seguinte código ao arquivo _.bashrc_:
 > \# Custom Files
+>
 > if [ -f ~/.bashrc_custom ]; then
->     . ~/.bashrc_custom
-> fi
+> >
+> >. ~/.bashrc_custom
+>
+>  fi
