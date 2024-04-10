@@ -1,5 +1,5 @@
 syntax on
-" colo elflord
+colo elflord
 
 " +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 " Identation
@@ -14,3 +14,4 @@ set expandtab
 
 " Better Copy and Paste
 set pastetoggle=<F2>
+
